@@ -15,7 +15,7 @@ This project introduces you to `grep`, one of the most powerful and widely used 
 - Analyze data using command-line tools for quick insight 
 ****
 
-== Dataset
+== Datasets
 - `/anvil/projects/tdm/data/amazon/`
 - `/anvil/projects/tdm/data/movies_and_tv/`
 
